@@ -1,0 +1,48 @@
+\documentclass[submit,techrep,noauthor]{ipsj}
+\usepackage[dvipdfmx]{graphicx}
+\usepackage{url}
+\usepackage{amsmath}
+%\usepackage{newtxtext, newtxmath}
+\def\Underline{\setbox0\hbox\bgroup\let\\\endUnderline}
+\def\endUnderline{\vphantom{y}\egroup\smash{\underline{\box0}}\\}
+\def\|{\verb|}
+
+\setcounter{巻数}{61} %vol53=2012
+\setcounter{号数}{10}
+\setcounter{page}{1}
+ 
+\begin{document}
+\title{\LaTeX 練習課題文書}
+\affiliate{SU}{静岡大学\\
+Shizuoka University}
+\author{電波 届}{Denpa Todoku}{SU}
+
+\begin{abstract}
+  この文書は初めて\LaTeX に触れる学生がレポートらしいものを作成するためのサンプルです．
+\end{abstract}
+
+\maketitle
+
+\section{はじめに}
+
+このサンプル文書は，情報処理学会の研究会用のスタイルに基づいて書かれています．
+スタイルファイル（クラスファイル）は，情報処理学会論文誌のWebページより入手できます．
+スタイルファイルとともに配布されているtech-jsample.texという名前のスタイルを参考に作れば良いでしょう．
+
+% 続きは自分で書くこと。
+
+
+% 参考文献リスト
+
+\begin{thebibliography}{99}
+  \bibitem{conf-example} Shrivastava, V., Nabeel, A., Rayanchu, S.,
+    Banerjee, S., Keshav, S., Papagiannaki, K., and Mishra A.: CENTAUR:
+    Realizing the Full Potential of Centralized WLANs through a Hybrid Data
+    Path, \textit{Proc.\ the 15th Annual International Conference on Mobile Computing
+    and Networking (MobiCom '09)}, pp.~297--308 (2009).
+
+  % 続きは自分で書くこと
+
+\end{thebibliography}
+
+\end{document}
