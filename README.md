@@ -15,7 +15,7 @@
 - [LaTexコマンド集](http://www.latex-cmd.com)
 
 MacやWindowsのローカル環境にLaTeXの環境を作っても良いですし、
-オンラインのLaTeX作業環境（Overleaf2など）で作業しても良いですが、
+オンラインのLaTeX作業環境（Overleafなど）で作業しても良いですが、
 最終的には、GitHub上に成果物が残るようにして下さい。
 
 手っ取り早いのはOverleafの環境での作業ですが、
