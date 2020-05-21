@@ -4,7 +4,7 @@
 
 ## 課題の内容
 
-このフォルダに含めたgoal.pdfと同じ出力が得られるように、LaTeXのソースコード（ipsj_latex_plactice.tex）の編集、ならびに埋め込むPDFの作成を行い、最終的にipsj_latex_plactice.pdfを生成して下さい。
+このフォルダに含めたgoal.pdfと同じ出力が得られるように、LaTeXのソースコード（practice.tex）の編集、ならびに埋め込むPDFの作成を行い、最終的にpractice.pdfを生成して下さい。
 
 - コンパイルに必要なLaTeXのスタイルは情報処理学会の[Webページ](https://www.ipsj.or.jp/journal/submit/style.html)からダウンロードして下さい。
   - そのスタイルをどのように使うかは、自分でドキュメントや、例を読んで理解して下さい。
