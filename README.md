@@ -11,7 +11,7 @@
 
 [TeXWiki](https://texwiki.texjp.org)の他、以下のページが参考になります。
 
-−[正しいマークアップ](http://www.info.kochi-tech.ac.jp/y-takata/index.php?Tips/TeX/%C0%B5%A4%B7%A4%A4%A5%DE%A1%BC%A5%AF%A5%A2%A5%C3%A5%D7)
+- [正しいマークアップ](http://www.info.kochi-tech.ac.jp/y-takata/index.php?Tips/TeX/%C0%B5%A4%B7%A4%A4%A5%DE%A1%BC%A5%AF%A5%A2%A5%C3%A5%D7)
 - [LaTexコマンド集](http://www.latex-cmd.com)
 
 MacやWindowsのローカル環境にLaTeXの環境を作っても良いですし、
